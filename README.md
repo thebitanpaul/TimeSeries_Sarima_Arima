@@ -22,12 +22,6 @@ This mini project focuses on the implementation of ARIMA and SARIMA models for T
 3. Run the Jupyter Notebook or Python script to analyze the Time Series data using ARIMA and SARIMA models.
 4. Visualize GARCH plots for volatility analysis.
 
-## Folder Structure
-- `data/`: Contains the Time Series data files.
-- `notebooks/`: Jupyter Notebooks for analysis.
-- `scripts/`: Python scripts for running the analysis.
-- `results/`: Store the results and plots.
-
 ## About Me
 
 I am an AI and Machine Learning enthusiast & growing Android Developer with some keen interest in Data Analytics and LLM.
